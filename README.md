@@ -1,4 +1,4 @@
-## Olá! Eu sou o Lucas C Alecrim🖐️
+## Olá, eu sou o Lucas Cardoso Alecrim 👋
 <br/>
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
@@ -13,20 +13,41 @@
   </a>
 </div>
 
-
 ## Sobre Mim
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Ciencia da computação Ficr.
-- 💼 Trabalhando como Analista de Suporte Pleno, com o objetivo de transitar para a carreira de Desenvolvedor.
-- 🌱 Aprendendo mais sobre desenvolvimento com JavaScript, TypeScript, Node.js e SQL, além de expandir meus conhecimentos em Cloud Computing com AWS, Azure e IA.
+Desde **2017**, venho transformando **desafios complexos** em soluções práticas e inovadoras na área de **tecnologia**. Com uma experiência sólida em **Suporte Técnico**, **Desenvolvimento Backend**, **Cloud** e **Análise de Sistemas**, sempre busco melhorar processos e gerar **resultados tangíveis** para as empresas. 💡
 
-## Objetivos
+## 🏆 Principais Resultados:
+✅ **Atos Brasil**:  
+Gerenciei o **suporte** para a **produção da Stellantis**, incluindo a administração do **Active Directory** e políticas de segurança. Resolvi problemas críticos de **autenticação** e **integração de dispositivos**.  
 
-- **Desenvolvedor**: Transitar para a carreira de desenvolvedor, aproveitando meu conhecimento atual em tecnologias e suporte técnico.
-- **Aprendizado Contínuo**: Continuar a aprender e me adaptar às novas tecnologias e ferramentas no campo da computação em nuvem e desenvolvimento de software.
+✅ **Quality Automação**:  
+Gerenciei **PostgreSQL** e realizei suporte técnico de **Níveis N1, N2 e N3**, otimizando processos e garantindo eficiência nos chamados via **Tiflux**. Também criei diversas **documentações no Notion**, detalhando soluções de erros relacionados a **queries** e problemas nos **bancos de dados**.  
 
-## Tecnologias que eu uso no meu dia
+✅ **CESAR**:  
+Como **Suporte Técnico Pleno**, forneci **infraestrutura robusta** para **times de desenvolvimento**, trabalhando com grandes parceiros como **Samsung** e **Motorola**.
+
+## 🎓 Formação:
+
+🎓 **Node.js** pela **FAP da SOFTEX**  
+🎓 **Cursando Ciência da Computação**  
+🎓 **ONE Oracle Next Education**  
+
+## 💻 Minhas principais habilidades:
+
+🔹 **Node.js** e **JavaScript**  
+🔹 **Git** e **Versionamento de código**  
+🔹 **TypeScript**  
+🔹 **AWS** e **Azure**  
+🔹 **Java Spring Boot**  
+🔹 **Python**  
+🔹 **Docker**  
+🔹 **SQL** e **PostgreSQL**  
+🔹 **Metodologias Ágeis**  
+🔹 **Suporte Técnico N2 (Pleno)**
+
+----
+<br>
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
   <img alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
