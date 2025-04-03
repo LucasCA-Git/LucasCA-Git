@@ -30,7 +30,7 @@ Como **Suporte Técnico Pleno**, forneci **infraestrutura robusta** para **times
 ## 🎓 Formação:
 
 🎓 **Node.js** pela **FAP da SOFTEX**  
-🎓 **Cursando Ciência da Computação**  
+🎓 **Cursando ADS na FICR**  
 🎓 **ONE Oracle Next Education**  
 
 ## 💻 Minhas principais habilidades:
