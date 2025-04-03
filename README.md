@@ -65,18 +65,18 @@ Minha experiência de trabalho mais recente:
 
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="Petrosystem" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8lYUs0Rzkra7sVxXrrdmFsK2vWk02Xl2R7RmQwuhr_X67vg6r0ywJT23AVhur38-Asfw&usqp=CAU"/>](https://petrosystem.com.br)
+**Analista de Suporte** \
+[**PetroSystem**](https://petrosystem.com.br) • Analista de sistemas \ CNPJ \
+Linguagens & Tecnologias: `Java`, `SpringBoot`, `Scripts`, `Suporte N2`\
+Projetos em destaque: [BucketS3-Petrosystem](https://github.com/LucasCAlecrim/buckets3-petrosystem)
+
+<br/><br/>
+
 [<img align="left" height="94px" width="94px" alt="Atos" src="https://pbs.twimg.com/profile_images/1455940232952561664/7zuhiAMn_400x400.jpg"/>](https://atos.net/pt-br/brasil-atos)
 **Analista de Suporte N2** \
 [**Atos**](https://atos.net/pt-br/brasil-atos) • Contract \
 Linguagens & Tecnologias: `SQL`, `Git`, `Scrum`, `Metodologias Ágeis`, `Scripts`, `Suporte N2`
-
-<br/><br/>
-
-[<img align="left" height="94px" width="94px" alt="Petrosystem" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8lYUs0Rzkra7sVxXrrdmFsK2vWk02Xl2R7RmQwuhr_X67vg6r0ywJT23AVhur38-Asfw&usqp=CAU"/>](https://petrosystem.com.br)
-**Analista de Suporte** \
-[**PetroSystem**](https://petrosystem.com.br) • Estágio \ Contract \
-Linguagens & Tecnologias: `Java`, `SpringBoot`, `Scripts`, `Suporte N2`\
-Projetos em destaque: [BucketS3-Petrosystem](https://github.com/LucasCAlecrim/buckets3-petrosystem)
 
 <br/><br/>
 
