@@ -21,7 +21,7 @@ Desde **2017**, venho transformando **desafios complexos** em soluções prátic
 ✅ **Atos Brasil**:  
 Gerenciei o **suporte** para a **produção da Stellantis**, incluindo a administração do **Active Directory** e políticas de segurança. Resolvi problemas críticos de **autenticação** e **integração de dispositivos**.  
 
-✅ **Quality Automação**:  
+✅ **Petrosystem Webposto**:  
 Gerenciei **PostgreSQL** e realizei suporte técnico de **Níveis N1, N2 e N3**, otimizando processos e garantindo eficiência nos chamados via **Tiflux**. Também criei diversas **documentações no Notion**, detalhando soluções de erros relacionados a **queries** e problemas nos **bancos de dados**.  
 
 ✅ **CESAR**:  
